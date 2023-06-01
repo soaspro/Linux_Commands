@@ -2,13 +2,16 @@
 
 I created this file for reference on the common linux commands used while doing coding, system admin, and troubleshooting/debugging :)
 
+<!-- JAVA comment doens't work here ... ): only html like for .md files (markdown langauge)
 //comment?
+-->
+
 <!--- Trying JS with and without markdown --->
-<!-- without -->
-
+<!--WITHOUT 
 var s = "JavaScript syntax highlighting";
+-->
 
-<!-- with -->
+<!-- WITH ---- IT WORKS ! :D so cool.--> 
 
 ```javascript 
 var s = "JavaScript syntax highlighting";
